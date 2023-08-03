@@ -1,15 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next",
-  description:
-    "",
-  mainNav: [
-    {
-      title: "Home",
-      href: "/",
-    },
-  ],
+  name: "NextApp",
+  description:"",
+
   links: {
     twitter: "https://www.eporner.com/",
     github: "https://missav.com",
